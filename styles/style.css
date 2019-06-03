@@ -30,3 +30,15 @@
 .text-black {
   color: black !important;
 }
+
+.alegreya {
+  font-family: 'Alegreya', serif;
+}
+
+.lato {
+  font-family: 'Lato', sans-serif;
+}
+
+.circle-img {
+  border-radius: 50%;
+}
